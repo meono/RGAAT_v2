@@ -1,7 +1,7 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 #Copyright (c) BIG
 #Author:Liu Wanfei <liuwf@big.ac.cn>
-#Date:2015Äê11ÔÂ02ÈÕ
+#Date:2015ï¿½ï¿½11ï¿½ï¿½02ï¿½ï¿½
 #Description:This program can identify variant according to the sam file.
 #use strict;
 #use warnings;
